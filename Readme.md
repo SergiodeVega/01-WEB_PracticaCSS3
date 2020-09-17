@@ -1,0 +1,4 @@
+Buenas tardes Billy. He seguido la lista de instrucciones para realizar el ejercicio de CSS3 extrayendo el código de la página de W3schools, mediante wget y los ejecutables.
+El resultado de la segunda búsqueda que contenía espacios y salto de línea, lo he guardado en EntregaHTML.html pero he tenido problemas y no lo he terminado.
+Me he quedado en el paso en que había que truncar las primeras columnas de este fichero para quitar los números de línea, mediante la pulsación de Alt + Shift. He tenido problemas para hacer este paso, porque al ser un archivo tan largo, de miles de líneas, tardaba mucho en hacer la selección y me encontraba con la limitación del VSCode de un máximo de 10.000 selecciones.
+Voy a intentar truncar las primeras columnas mediante otro programa y luego sigo a partir de ese punto.
